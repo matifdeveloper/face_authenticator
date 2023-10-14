@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44417249637",
+    "project_id": "face-detector-a8ede",
+    "storage_bucket": "face-detector-a8ede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44417249637:android:efbb0667318d4d22b7318c",
+        "android_client_info": {
+          "package_name": "com.matifdeveloper.face_detector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc6dL6nYOlJoTDl8Jl7KQgVO-rDq8ITQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
